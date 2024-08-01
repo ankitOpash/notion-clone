@@ -58,9 +58,3 @@ To get a local copy up and running follow these simple steps.
    npx convex dev
    ```
 
-
-## Contact
-
-Somanshu Bhardwaj - [@somanshubha](https://twitter.com/somanshubha)
-
-Project Link: [https://github.com/somanshubhardwaj/notion-clone](https://github.com/somanshubhardwaj/notion-clone)
